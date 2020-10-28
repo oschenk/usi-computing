@@ -1,0 +1,74 @@
+[
+    {
+        "year":2021,
+        "semesters":[
+            {
+                "name": "Spring",
+                "courses": [
+                    {
+                      "name" : "High Performance Computing Lab for Computational Science and Engineering (at ETH Zurich)",
+                      "lecturers":"Schenk (Gaedke-Merzhäuser, Holt, Janalík, Pasadakis, Kardoš, Eftekhari)",
+                      "ects": "7",
+                      "link": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=137681&"
+
+                    },
+                    {
+                      "name" : "Effective High-Performance Computing & Data Analytics Summer School",
+                      "lecturers":"Schenk (Holt, Pasadakis, Eftekhari))",
+                      "ects": "6",
+                      "link": "https://search.usi.ch/en/courses/35260874/effective-high-performance-computing-data-analytics-summer-school"
+
+
+                    }
+                    
+                ]
+            }
+
+        ]
+    },
+    {
+        "year":2020,
+        "semesters":[
+            {
+                "name": "Fall",
+                "courses": [
+                    {
+                      "name" : "High-Performance Computing",
+                      "lecturers":"Schenk (Holt, Pasadakis, Janalík, Kardoš, Eftekhari)",
+                      "ects": "6",
+                      "link": "https://search.usi.ch/en/courses/35259362/high-performance-computing"
+
+                    },
+                    {
+                      "name" : "Numerical Computing",
+                      "lecturers":"Schenk (Holt, Pasadakis, Janalík, Kardoš, Eftekhari)",
+                      "ects": "6",
+                      "link": "https://search.usi.ch/en/courses/35259451/numerical-computing"
+
+                    }
+                    
+                ]
+            },
+            {
+                "name": "Spring",
+                "courses": [
+                    {
+                      "name" : "High Performance Computing Lab for Computational Science and Engineering (at ETH Zurich)",
+                      "lecturers":"Schenk (Pasadakis, Kardoš, Eftekhari)",
+                      "ects": "7",
+                      "link": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=137681&"
+
+                    },
+                    {
+                      "name" : "Effective High-Performance Computing & Data Analytics Summer School",
+                      "lecturers":"Schenk (Janalík)",
+                      "ects": "6",
+                      "link": "https://search.usi.ch/en/courses/35260874/effective-high-performance-computing-data-analytics-summer-school"
+
+                    }
+                    
+                ]
+            }
+        ]
+    }
+]
