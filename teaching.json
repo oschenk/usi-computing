@@ -10,6 +10,8 @@
                       "lecturers":"Prof. Igor Pivkin",
                       "ects": "6",
                       "link": "https://search.usi.ch/courses/35262225/advanced-discretization-methods",
+                      "program":"",
+                      "program_link":""
                       
                     },
                     {
@@ -25,37 +27,49 @@
                       "name" : "Graphical Models and Network Science",
                       "lecturers":"Prof. Ernst Wit",
                       "ects": "6",
-                      "link": "https://search.usi.ch/en/courses/35262281/graphical-models-and-network-science"
+                      "link": "https://search.usi.ch/en/courses/35262281/graphical-models-and-network-science",
+                      "program":"",
+                      "program_link":""
                     },
                     {
                       "name" : "High Performance Computing Lab for Computational Science and Engineering (at ETH Zurich)",
                       "lecturers":"Prof. Olaf Schenk",
                       "ects": "7",
-                      "link": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=137681&"
+                      "link": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=137681&",
+                      "program":"",
+                      "program_link":""
                     },
                     {
                       "name" : "Linar Algebra",
                       "lecturers":"Prof. Igor Pivkin",
                       "ects": "6",
-                      "link": "https://search.usi.ch/courses/35262259/linear-algebra"
+                      "link": "https://search.usi.ch/courses/35262259/linear-algebra",
+                      "program":"",
+                      "program_link":""
                     },
                     {
                       "name" : "Master Thesis (CS)",
                       "lecturers":"Prof. Olaf Schenk, Prof. Ernst Wit",
                       "ects": "27",
-                      "link": "https://search.usi.ch/en/courses/35262230/master-thesis-cs"
+                      "link": "https://search.usi.ch/en/courses/35262230/master-thesis-cs",
+                      "program":"",
+                      "program_link":""
                     },
                     {
                       "name" : "Particle Methods",
                       "lecturers":"Prof. Igor Pivkin",
                       "ects": "6",
-                      "link": "https://search.usi.ch/courses/35262231/particle-methods"
+                      "link": "https://search.usi.ch/courses/35262231/particle-methods",
+                      "program":"",
+                      "program_link":""
                     },
                      {
                       "name" : "Stochastic Methods",
                       "lecturers":"Prof. Illia Horenko",
                       "ects": "6",
-                      "link": "https://search.usi.ch/en/courses/35262226/stochastic-methods"
+                      "link": "https://search.usi.ch/en/courses/35262226/stochastic-methods",
+                      "program":"",
+                      "program_link":""
                     }
                     
                 ]
@@ -73,38 +87,50 @@
                       "name" : "High-Performance Computing",
                       "lecturers":"Prof. Olaf Schenk",
                       "ects": "6",
-                      "link": "https://search.usi.ch/en/courses/35259362/high-performance-computing"
+                      "link": "https://search.usi.ch/en/courses/35259362/high-performance-computing",
+                      "program":"",
+                      "program_link":""
                     },
                     {
                       "name" : "Introduction to Data Science",
                       "lecturers":"Prof. Ernst Wit",
                       "ects": "6",
-                      "link": "https://search.usi.ch/en/courses/35262249/introduction-to-data-science"
+                      "link": "https://search.usi.ch/en/courses/35262249/introduction-to-data-science",
+                      "program":"",
+                      "program_link":""
                     },
                     {
                       "name" : "Introduction to Computational Science",
                       "lecturers":"Prof. Igor Pivkin, Prof. Ernst Wit",
                       "ects": "3",
-                      "link": "https://search.usi.ch/en/courses/35262287/introduction-to-computational-science"
+                      "link": "https://search.usi.ch/en/courses/35262287/introduction-to-computational-science",
+                      "program":"",
+                      "program_link":""
                     },
                     {
                       "name" : "Master Thesis (CS)",
                       "lecturers":"Prof. Olaf Schenk, Prof. Ernst Wit",
                       "ects": "3",
-                      "link": "https://search.usi.ch/en/courses/35262229/master-thesis-cs"
+                      "link": "https://search.usi.ch/en/courses/35262229/master-thesis-cs",
+                      "program":"",
+                      "program_link":""
                     },
                     {
                       "name" : "Numerical Computing",
                       "lecturers":"Prof. Olaf Schenk",
                       "ects": "6",
-                      "link": "https://search.usi.ch/en/courses/35259451/numerical-computing"
+                      "link": "https://search.usi.ch/en/courses/35259451/numerical-computing",
+                      "program":"",
+                      "program_link":""
 
                     },
                     {
                       "name" : "Probability & Statistics",
                       "lecturers":"Prof. Ernst Wit",
                       "ects": "6",
-                      "link": "https://search.usi.ch/en/courses/35262238/probability-statistics"
+                      "link": "https://search.usi.ch/en/courses/35262238/probability-statistics",
+                      "program":"",
+                      "program_link":""
                     }
 
                 ]
@@ -116,20 +142,26 @@
                       "name" : "Graphical Models and Network Science",
                       "lecturers":"Prof. Ernst Wit",
                       "ects": "6",
-                      "link": "https://search.usi.ch/courses/35262281/graphical-models-and-network-science"
+                      "link": "https://search.usi.ch/courses/35262281/graphical-models-and-network-science",
+                      "program":"",
+                      "program_link":""
                     },
                     {
                       "name" : "High Performance Computing Lab for Computational Science and Engineering (at ETH Zurich)",
                       "lecturers":"Prof. Olaf Schenk",
                       "ects": "7",
-                      "link": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=137681&"
+                      "link": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=137681&",
+                      "program":"",
+                      "program_link":""
 
                     },
                     {
                       "name" : "Effective High-Performance Computing & Data Analytics Summer School",
                       "lecturers":"Prof. Olaf Schenk",
                       "ects": "6",
-                      "link": "https://search.usi.ch/en/courses/35260874/effective-high-performance-computing-data-analytics-summer-school"
+                      "link": "https://search.usi.ch/en/courses/35260874/effective-high-performance-computing-data-analytics-summer-school",
+                      "program":"",
+                      "program_link":""
 
                     }
                     
