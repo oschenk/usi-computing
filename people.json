@@ -55,7 +55,7 @@
                 "name": "Olaf",
                 "surname": "Schenk",
                 "title": "Head",
-                "image_name" : "olaf.schenk"
+                "image_name" : "images/olaf-schenk.jpg"
             },
             {
                 "name": "Drosos",
@@ -105,7 +105,6 @@
                 "title": "Junior Software Engineer",
                 "image_name" : ""
             }
-
         ]
     },
     {
