@@ -236,8 +236,12 @@
             "link": "https://search.usi.ch/courses/35262281/graphical-models-and-network-science",
             "programs": [
               {
-                "name": "",
-                "link": ""
+                "name": "MCS",
+                "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
+              },
+              {
+                "name": "MFT",
+                "link": "https://search.usi.ch/en/educations/55/master-of-science-in-financial-technology-and-computing"
               }
             ]
           },
@@ -248,8 +252,8 @@
             "link": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=137681&",
             "programs": [
               {
-                "name": "",
-                "link": ""
+                "name": "ETH CSE Bachelor",
+                "link": "https://rw.ethz.ch/"
               }
             ]
           },
@@ -260,8 +264,16 @@
             "link": "https://search.usi.ch/en/courses/35260874/effective-high-performance-computing-data-analytics-summer-school",
             "programs": [
               {
-                "name": "",
-                "link": ""
+                "name": "MCS",
+                "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
+              },
+              {
+                "name": "MAI",
+                "link": "https://search.usi.ch/educations/54/master-of-science-in-artificial-intelligence"
+              },
+              {
+                "name": "PHD",
+                "link": "https://search.usi.ch/educations/33/phd-programme-of-the-faculty-of-informatics"
               }
             ]
           }
