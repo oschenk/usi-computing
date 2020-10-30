@@ -7,7 +7,7 @@
                 "name": "Ernst",
                 "surname": "Wit",
                 "title": "Head",
-                "image_name" : "random.jpg"
+                "image_name" : "images/ernst-wit.jpg"
             },
             {
                 "name": "name",
@@ -115,7 +115,7 @@
                 "name": "Igor",
                 "surname": "Pivkin",
                 "title": "Head",
-                "image_name" : ""
+                "image_name" : "images/igor-pivkin.jpg"
             },
             {
                 "name": "Yao",
