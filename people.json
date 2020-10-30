@@ -1,12 +1,12 @@
 [
     {
         "groupname": "Statistical Computing Laboratory",
-        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusa.",
+        "description": "The probability and statistical computing research unit is part of the the Faculty of Informatics. The focus of the group is on network modelling, including random graphs, percolation, and inference. Graphs are an important paradigm for scientific research in the 21st century. The research programme spans the wide range of methodological developments and applied projects, from random graph models, sparse network model inference and systems biology, high-dimensional inference and inference of ODEs and SDEs.",
         "members": [
             {
-                "name": "Mr.",
-                "surname": "Bean1",
-                "title": "mascotte",
+                "name": "Ernst",
+                "surname": "Wit",
+                "title": "Head",
                 "image_name" : "random.jpg"
             },
             {
@@ -112,21 +112,15 @@
         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusa.",
         "members": [
             {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
+                "name": "Igor",
+                "surname": "Pivkin",
+                "title": "Head",
                 "image_name" : ""
             },
             {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
-                "image_name" : ""
-            },
-            {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
+                "name": "Yao",
+                "surname": " Li",
+                "title": "Postdoctoral Fellow",
                 "image_name" : ""
             }
 
@@ -137,21 +131,15 @@
         "description": "The research of the High-Dimensional Data Analysis Laboratory is focussed on the development and practical implementation of data analysis algorithms, inverse methods and time series analysis approaches. Application areas for the developed methods are problems from climate/weather research, computational finance and econometrics, biophysics, computational fluid mechanics, sociology and politology. Special emphasis is done on data-based investigation of socio-economical and climate-related processes. ",
         "members": [
             {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
+                "name": "Illia",
+                "surname": "Horenko",
+                "title": "Head",
                 "image_name" : ""
             },
             {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
-                "image_name" : ""
-            },
-            {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
+                "name": "Edoardo",
+                "surname": "Vecchi",
+                "title": "Ph.D. Student",
                 "image_name" : ""
             }
 
