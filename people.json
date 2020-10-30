@@ -128,7 +128,7 @@
     },
     {
         "groupname": "High-Dimensional Data Analysis Laboratory ",
-        "description": "The research of the High-Dimensional Data Analysis Laboratory is focussed on the development and practical implementation of data analysis algorithms, inverse methods and time series analysis approaches. Application areas for the developed methods are problems from climate/weather research, computational finance and econometrics, biophysics, computational fluid mechanics, sociology and politology. Special emphasis is done on data-based investigation of socio-economical and climate-related processes. ",
+        "description": "The research of the High-Dimensional Data Analysis Laboratory is focussed on the development and practical implementation of data analysis algorithms, inverse methods and time series analysis approaches. Application areas for the developed methods are problems from climate/weather research, computational finance and econometrics, biophysics, computational fluid mechanics, sociology and politology.",
         "members": [
             {
                 "name": "Illia",
