@@ -31,6 +31,10 @@
                 "name": "MCS",
                 "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
               },
+             {
+                "name": "MAI",
+                "link": "https://search.usi.ch/educations/54/master-of-science-in-artificial-intelligence"
+              },
               {
                 "name": "PHD",
                 "link": "https://search.usi.ch/educations/33/phd-programme-of-the-faculty-of-informatics"
@@ -45,10 +49,14 @@
             "link": "https://search.usi.ch/en/courses/35262281/graphical-models-and-network-science",
             "programs": [
               {
-                "name": "",
-                "link": ""
+                "name": "MCS",
+                "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
+              },
+              {
+                "name": "MFT",
+                "link": "https://search.usi.ch/en/educations/55/master-of-science-in-financial-technology-and-computing"
               }
-            ]
+             ]
           },
           {
             "name": "High Performance Computing Lab for Computational Science and Engineering (at ETH Zurich)",
@@ -57,8 +65,8 @@
             "link": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=137681&",
             "programs": [
               {
-                "name": "",
-                "link": ""
+                "name": "ETH CSE Bachelor",
+                "link": "https://rw.ethz.ch/"
               }
             ]
           },
@@ -69,8 +77,8 @@
             "link": "https://search.usi.ch/courses/35262259/linear-algebra",
             "programs": [
               {
-                "name": "",
-                "link": ""
+                "name": "BINF",
+                "link": "https://search.usi.ch/educations/30/bachelor-of-science-in-informatics"
               }
             ]
           },
@@ -81,8 +89,8 @@
             "link": "https://search.usi.ch/en/courses/35262230/master-thesis-cs",
             "programs": [
               {
-                "name": "",
-                "link": ""
+                "name": "MCS",
+                "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
               }
             ]
           },
@@ -93,8 +101,12 @@
             "link": "https://search.usi.ch/courses/35262231/particle-methods",
             "programs": [
               {
-                "name": "",
-                "link": ""
+                "name": "MCS",
+                "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
+              },
+              {
+                "name": "PHD",
+                "link": "https://search.usi.ch/educations/33/phd-programme-of-the-faculty-of-informatics"
               }
             ]
           },
