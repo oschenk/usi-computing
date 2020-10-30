@@ -4,9 +4,9 @@
         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusa.",
         "members": [
             {
-                "name": "Mr.",
-                "surname": "Bean1",
-                "title": "mascotte",
+                "name": "name",
+                "surname": "surname",
+                "title": "title",
                 "image_name" : "random.jpg"
             },
             {
@@ -55,7 +55,7 @@
                 "name": "Olaf",
                 "surname": "Schenk",
                 "title": "Head",
-                "image_name" : "images/olaf-schenk.jpg"
+                "image_name" : "olaf-schenk.jpg"
             },
             {
                 "name": "Drosos",
