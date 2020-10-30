@@ -9,13 +9,17 @@
                       "name" : "Advanced Discretization Methods",
                       "lecturers":"Prof. Igor Pivkin",
                       "ects": "6",
-                      "link": "https://search.usi.ch/courses/35262225/advanced-discretization-methods"
+                      "link": "https://search.usi.ch/courses/35262225/advanced-discretization-methods",
+                      
                     },
                     {
                       "name" : "Effective High-Performance Computing & Data Analytics Summer School",
                       "lecturers":"Prof. Olaf Schenk",
                       "ects": "6",
-                      "link": "https://search.usi.ch/en/courses/35260874/effective-high-performance-computing-data-analytics-summer-school"
+                      "link": "https://search.usi.ch/en/courses/35260874/effective-high-performance-computing-data-analytics-summer-school",
+                      "program":"MA",
+                      "program_link": "https://search.usi.ch/en/courses/35260874/effective-high-performance-computing-data-analytics-summer-school"
+
                     },
                     {
                       "name" : "Graphical Models and Network Science",
