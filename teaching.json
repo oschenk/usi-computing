@@ -6,19 +6,28 @@
                 "name": "Spring",
                 "courses": [
                     {
+                      "name" : "Graphical Models and Network Science",
+                      "lecturers":"Prof. Ernst Wit",
+                      "ects": "6",
+                      "link": "https://search.usi.ch/en/courses/35262281/graphical-models-and-network-science"
+                    },
+                    {
+                      "name" : "Master Thesis (CS)",
+                      "lecturers":"Prof. Olaf Schenk, Prof. Ernst Wit",
+                      "ects": "27",
+                      "link": "https://search.usi.ch/en/courses/35262230/master-thesis-cs"
+                    },
+                    {
                       "name" : "High Performance Computing Lab for Computational Science and Engineering (at ETH Zurich)",
-                      "lecturers":"Schenk (Gaedke-Merzhäuser, Holt, Janalík, Pasadakis, Kardoš, Eftekhari)",
+                      "lecturers":"Prof. Olaf Schenk",
                       "ects": "7",
                       "link": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=137681&"
-
                     },
                     {
                       "name" : "Effective High-Performance Computing & Data Analytics Summer School",
-                      "lecturers":"Schenk (Holt, Pasadakis, Eftekhari))",
+                      "lecturers":"Prof. Olaf Schenk",
                       "ects": "6",
                       "link": "https://search.usi.ch/en/courses/35260874/effective-high-performance-computing-data-analytics-summer-school"
-
-
                     }
                     
                 ]
@@ -32,6 +41,30 @@
             {
                 "name": "Fall",
                 "courses": [
+                    {
+                      "name" : "Probability & Statistics",
+                      "lecturers":"Prof. Ernst Wit",
+                      "ects": "6",
+                      "link": "https://search.usi.ch/en/courses/35262238/probability-statistics"
+                    },
+                    {
+                      "name" : "Master Thesis (CS)",
+                      "lecturers":"Prof. Olaf Schenk, Prof. Ernst Wit",
+                      "ects": "3",
+                      "link": "https://search.usi.ch/en/courses/35262229/master-thesis-cs"
+                    },
+                    {
+                      "name" : "Introduction to Data Science",
+                      "lecturers":"Prof. Ernst Wit",
+                      "ects": "6",
+                      "link": "https://search.usi.ch/en/courses/35262249/introduction-to-data-science"
+                    },
+                    {
+                      "name" : "Introduction to Computational Science",
+                      "lecturers":"Prof. Ernst Wit",
+                      "ects": "3",
+                      "link": "https://search.usi.ch/en/courses/35262287/introduction-to-computational-science"
+                    },
                     {
                       "name" : "High-Performance Computing",
                       "lecturers":"Prof. Olaf Schenk",
