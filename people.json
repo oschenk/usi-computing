@@ -54,23 +54,51 @@
             {
                 "name": "Olaf",
                 "surname": "Schenk",
-                "title": "title",
+                "title": "Head",
+                "image_name" : "olaf.schenk"
+            },
+            {
+                "name": "Drosos",
+                "surname": "Kourounis",
+                "title": "Senior Researcher",
                 "image_name" : ""
             },
             {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
+                "name": "Juraj",
+                "surname": "Kardos",
+                "title": "Postdoctoral Fellow",
                 "image_name" : ""
             },
             {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
+                "name": "Dimosthenis",
+                "surname": "Pasadakis",
+                "title": "Ph.D. Student",
+                "image_name" : ""
+            },
+            {
+                "name": "Aryan",
+                "surname": " Eftekhari",
+                "title": "Ph.D. Student",
+                "image_name" : ""
+            },
+            {
+                "name": "Tim",
+                "surname": " Holt ",
+                "title": "Ph.D. Student",
+                "image_name" : ""
+            },
+            {
+                "name": "Lisa",
+                "surname": "Gaedke-Merzhaeuser",
+                "title": "Ph.D. Student",
+                "image_name" : ""
+            },
+            {
+                "name": "Radim",
+                "surname": "Janalík",
+                "title": "Ph.D. Student",
                 "image_name" : ""
             }
-            
-
         ]
     },
     {
