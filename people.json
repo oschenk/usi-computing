@@ -85,7 +85,7 @@
                 "name": "Tim",
                 "surname": " Holt ",
                 "title": "Ph.D. Student",
-                "image_name" : ""
+                "image_name" : "images/tim-holt.jpg"
             },
             {
                 "name": "Lisa",
@@ -97,7 +97,7 @@
                 "name": "Radim",
                 "surname": "Janalík",
                 "title": "Ph.D. Student",
-                "image_name" : ""
+                "image_name" : "images/janalik-radim.jpg"
             },
             {
                 "name": "Ardil",
