@@ -133,8 +133,8 @@
         ]
     },
     {
-        "groupname": "Scientific Computing Laboratory A",
-        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusa.",
+        "groupname": "High-Dimensional Data Analysis Laboratory ",
+        "description": "The research of the High-Dimensional Data Analysis Laboratory is focussed on the development and practical implementation of data analysis algorithms, inverse methods and time series analysis approaches. Application areas for the developed methods are problems from climate/weather research, computational finance and econometrics, biophysics, computational fluid mechanics, sociology and politology. Special emphasis is done on data-based investigation of socio-economical and climate-related processes. ",
         "members": [
             {
                 "name": "name",
