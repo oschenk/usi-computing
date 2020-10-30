@@ -34,7 +34,7 @@
                 "courses": [
                     {
                       "name" : "High-Performance Computing",
-                      "lecturers":"Schenk (Holt, Pasadakis, Janalík, Kardoš, Eftekhari)",
+                      "lecturers":"Prof. Olaf Schenk",
                       "ects": "6",
                       "link": "https://search.usi.ch/en/courses/35259362/high-performance-computing"
 
@@ -52,6 +52,12 @@
             {
                 "name": "Spring",
                 "courses": [
+                    {
+                      "name" : "Graphical Models and Network Science",
+                      "lecturers":"Prof. Ernst Wit",
+                      "ects": "6",
+                      "link": "https://search.usi.ch/courses/35262281/graphical-models-and-network-science"
+                    },
                     {
                       "name" : "High Performance Computing Lab for Computational Science and Engineering (at ETH Zurich)",
                       "lecturers":"Schenk (Pasadakis, Kardoš, Eftekhari)",
