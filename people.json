@@ -1,7 +1,7 @@
 [
     {
         "groupname": "Statistical Computing Laboratory",
-        "description": "The probability and statistical computing research unit is part of the the Faculty of Informatics. The focus of the group is on network modelling, including random graphs, percolation, and inference. Graphs are an important paradigm for scientific research in the 21st century. The research programme spans the wide range of methodological developments and applied projects, from random graph models, sparse network model inference and systems biology, high-dimensional inference and inference of ODEs and SDEs.",
+        "description": "The probability and statistical computing research unit is part of the Faculty of Informatics. The focus of the group is on network modelling, including random graphs, percolation, and inference. Graphs are an important paradigm for scientific research in the 21st century. The research programme spans the wide range of methodological developments and applied projects, from random graph models, sparse network model inference and systems biology, high-dimensional inference and inference of ODEs and SDEs.",
         "members": [
             {
                 "name": "Ernst",
@@ -67,7 +67,7 @@
                 "name": "Juraj",
                 "surname": "Kardos",
                 "title": "Postdoctoral Fellow",
-                "image_name" : ""
+                "image_name" : "images/~/kardos-juraj.jpg"
             },
             {
                 "name": "Dimosthenis",
