@@ -137,6 +137,12 @@
                 "image_name" : "images/illia-horenko.jpg"
             },
             {
+                "name": "Stewen",
+                "surname": "Horenko",
+                "title": "Postdoctoral Fellow",
+                "image_name" : "steffen-albrecht.jpg"
+            },
+            {
                 "name": "Edoardo",
                 "surname": "Vecchi",
                 "title": "Ph.D. Student",
