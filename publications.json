@@ -131,6 +131,24 @@
             {
                 "type": "Book Contributions",
                 "articles": [
+                    {
+                      "authors" :  "M. Bollhöfer, O. Schenk , R. Janalik, S. Hamm, and K. Gullapalli",
+                      "title" : "State-of-The-Art Sparse Direct Solvers",
+                      "description":"In: Grama A., Sameh A. (eds) Parallel Algorithms in Computational Science and Engineering. Modeling and Simulation in Science, Engineering and Technology. pp 1-32, Birkhäuser, Cham.",
+                      "link": "https://doi.org/10.1007/978-3-030-43736-7_1"
+
+                    },
+                    {
+                        "authors" : "J. Kardos, D. Kourounis, and O. Schenk",
+                        "title" : "Parallel Structure Exploiting Interior Point Methods",
+                        "description" : "In: Grama A., Sameh A. (eds) Parallel Algorithms in Computational Science and Engineering. Modeling and Simulation in Science, Engineering and Technology. pp 63-93, Birkhäuser, Cham.",
+                        "link" : "https://doi.org/10.1007/978-3-030-43736-7_3"
+                    }
+                ]
+            },
+            {
+                "type": "Refeered Journal Article",
+                "articles": [
                    {
                       "authors" : "S. Ranciati, E. C. Wit, C. Viroli",
                       "title" : "Bayesian smooth-and-match inference for ordinary differential equations models linear in the parameters",
@@ -173,24 +191,6 @@
                       "description": "Journal of the Royal Statistical Society. Series C: Applied Statistics, 68(1), 141-160, 2019",
                       "link": "https://doi.org/10.1111/rssc.12287"
                     },
-                    {
-                      "authors" :  "M. Bollhöfer, O. Schenk , R. Janalik, S. Hamm, and K. Gullapalli",
-                      "title" : "State-of-The-Art Sparse Direct Solvers",
-                      "description":"In: Grama A., Sameh A. (eds) Parallel Algorithms in Computational Science and Engineering. Modeling and Simulation in Science, Engineering and Technology. pp 1-32, Birkhäuser, Cham.",
-                      "link": "https://doi.org/10.1007/978-3-030-43736-7_1"
-
-                    },
-                    {
-                        "authors" : "J. Kardos, D. Kourounis, and O. Schenk",
-                        "title" : "Parallel Structure Exploiting Interior Point Methods",
-                        "description" : "In: Grama A., Sameh A. (eds) Parallel Algorithms in Computational Science and Engineering. Modeling and Simulation in Science, Engineering and Technology. pp 63-93, Birkhäuser, Cham.",
-                        "link" : "https://doi.org/10.1007/978-3-030-43736-7_3"
-                    }
-                ]
-            },
-            {
-                "type": "Refeered Journal Article",
-                "articles": [
                     {
                       "authors" :  "M. Rosenau, I. Horenko, F. Corbi, M. Rudolf, R. Kornhuber and O. Oncken",
                       "title" : "Synchronization of great subduction megathrust earthquakes: Insights from scale model analysis.",
