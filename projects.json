@@ -24,6 +24,30 @@
         
     },
     {
+        "title": "The Dynamics of Innovation: latent space modelling of patent citations ",
+        "abstract": "",
+        "link" :"https://search.usi.ch/projects/1991/the-dynamics-of-innovation-latent-space-modelling-of-patent-citations",
+        "group" : "",
+        "start" : "01.09.2020",
+        "end": "31.08.2024",
+        "duration" : "48 Months",
+        "funding" : "SNSF",
+        "status" : "Active",
+        "category": "Swiss National Science Foundation / Project Funding / Division I - Humanities and Social Sciences",
+        "image":"",
+        
+        "members": [
+            {
+                "name": "E. C. Wit",
+                "role": "(Responsible)"   
+            },
+            {
+                "name": "Lomi A.",
+                "role": "(Co-Responsible)"   
+            }
+        ]
+    },
+    {
         "title": "Balanced Graph Partition Refinement using the Graph p-Laplacian",
         "abstract": "Graph partitioning is a technique which is widely used in many fields of computer science and engineering. The goal is to partition the vertices of a graph into a certain number of disjoint sets of approximately the same size, so that a cut metric is minimized. Due to the NP-hardness of the problem and its practical importance, many different heuristics (spectral, combinatorial, evolutionist, etc.) have been developed to provide an approximate result in acceptable computational time. However, the advent of increasingly larger instances in emerging applications such as social networks or power networks renders graph partitioning and related graph algorithms such as clustering or community detection more and more important, multifaceted, and challenging. Spectral graph partitioning in the 2-norm using the eigenvectors of the graph Laplacian matrix was pioneered by Fiedler. However, this approach is considered infeasible for large-scale graphs, due to the prohibitively expensive computation of the Fiedler eigenvector, a fact that prompted the development of modern multilevel graph partitioning methods. Additionally, it has been proven that the quality of the partitions obtained by the spectral approach can be improved by considering the equivalent eigenvalue problem in the $p$-norm. The solution found for p =1, by thresholding the second eigenvector of the p-Laplacian, provides a sharp approximation to the balanced ratio Cheeger cut metric, the optimality of which is known to be still NP-hard.\nMotivated by this solid theoretical background, we recently developed a continuous relaxation of the optimal 2-way graph partitioning based on the p-norm  minimization of the graph Laplacian Rayleigh quotient. In order to avoid the expensive computation of the Fiedler eigenvector, a state-of-the-art graph partitioner is used to provide the initial partitioning that is iteratively refined. The p-norm is reduced from a 2-norm towards a 1-norm, employing for each value of p a feasibility-preserving gradient descent method that converges on the p-Laplacian eigenvector. A filter favored iterates advancing towards minimum edgecut and partition load imbalance, thus providing partitions of high quality. This approach exhibits significant improvements over state-of-the-art software packages such as METIS and KaHIP for graphs originating from various application domains of graph partitioning, including triangular Delaunay meshes and sparse matrices. Particularly high benefits were observed from the application of the p-Laplacian method on graphs emerging from electric power networks and social networks. The simplicity of the steepest-descent algorithm together with a novel explicit treatment of the feasibility constraint render the overall approach highly efficient on recent computer architectures. This potential is demonstrated by an initial  parallel implementation of our method on both shared- and distributed-memory platforms, e.g., for a large-scale application in seismic imaging.\nIn this proposal we plan to extend the aforementioned  p-Laplacian partitioning method by developing two simultaneous research directions aiming at high quality graph partitioning on modern high performance parallel architectures. The first one will utilize the structural information encoded in the third eigenvector of the graph Laplacian matrix, corresponding to the third smallest eigenvalue. Incorporating more information present in the spectra has proven to improve the traditional spectral bisection algorithm, and such an approach is expected to improve the quality of the p-Laplacian partitioning scheme as well. Moreover, we intend to study the benefits of replacing the traditional gradient descent method currently utilized, with an optimization technique tailored for nonconvex scenarios.",
         "link" :"https://search.usi.ch/projects/1036/balanced-graph-partition-refinement-using-the-graph-p-laplacian",
