@@ -100,6 +100,28 @@
             
         ]
         
+    },
+    {
+        "title": "Cell biomechanics in silico: Model development and validation ",
+        "abstract": "The aim of this project is to develop computational framework for the simulations of cells in flows. In order to achieve this goal, we will develop a new cell model and software efficiently exploiting modern supercomputers. The model will be extensively validated using quantitative experimental data provided by our collaborators.",
+        "link" :"https://search.usi.ch/projects/1023/cell-biomechanics-in-silico-model-development-and-validation",
+        "group" : "",
+        "start" : "01.03.2018",
+        "end": "28.02.2021",
+        "duration" : "36 Months",
+        "funding" : "SNSF",
+        "status" : "Active",
+        "category": "Swiss National Science Foundation / Project Funding / Division II - Mathematics, Natural and Engineering Sciences ",
+        "image":"projectImages/furies.jpg",
+        
+        "members": [
+            {
+                "name": "Pivkin I.",
+                "role": "(Responsible)"
+                
+            }            
+        ]
+        
     }
     
     
