@@ -3,7 +3,7 @@
         "title": "High-Performance Data Analytics Framework for Power Markets Simulation",
         "abstract": "Efficient energy trading relies on high-fidelity price prediction systems with short response times. This project will advance state-of-the-art computational tools for the market pricing mechanism for meeting real-time responses in smart power grid analysis.",
         "link" :"https://search.usi.ch/projects/800/future-swiss-electrical-infrastructure",
-        "group" : "",
+        "group" : "Schenk",
         "start" : "01.08.2020",
         "end": "31.07.2023",
         "duration" : "36 Months",
@@ -44,6 +44,26 @@
             {
                 "name": "Lomi A.",
                 "role": "(Co-Responsible)"   
+            }
+        ]
+    },
+    {
+        "title": "Sparse inference of complex networks ",
+        "abstract": "At the turn of the 21st century scientists have come to realise that a major ingredient in many modern economic, epidemiological, ecological and biological questions is to understand the network structure of the entities they study; for example, interbank lending is crucial for oiling the global economy and modern transport networks are facilitating the spread of infectious diseases. Unfortunately, even in the era of big data, computational bottle-necks have meant that only the simplest analyses have been applied to these large datasets, whereas methodological bottle-necks prevented an integrative view of complex phenomena. In short, inferring and analyzing complex networks have proven extremely difficult. Rather than simplifying the methodology prior to seeing the data, modern techniques from high-dimensional inference allow the data to select the appropriate level of complexity. The aim of this project is to integrate these techniques to the field of network analysis.",
+        "link" :"https://search.usi.ch/projects/1589/sparse-inference-of-complex-networks",
+        "group" : "",
+        "start" : "01.12.2019",
+        "end": "30.11.2023",
+        "duration" : "48 Months",
+        "funding" : "SNSF",
+        "status" : "Active",
+        "category": "Swiss National Science Foundation / Project Funding / Division II - Mathematics, Natural and Engineering Sciences",
+        "image":"",
+        
+        "members": [
+            {
+                "name": "E. C. Wit",
+                "role": "(Responsible)"   
             }
         ]
     },
