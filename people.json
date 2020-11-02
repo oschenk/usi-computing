@@ -9,42 +9,6 @@
                 "surname": "Wit",
                 "title": "Head",
                 "image_name" : "images/ernst-wit.jpg"
-            },
-            {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
-                "image_name" : "" 
-            },
-            {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
-                "image_name" : ""
-            },
-            {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
-                "image_name" : ""
-            },
-            {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
-                "image_name" : ""
-            },
-            {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
-                "image_name" : ""
-            },
-            {
-                "name": "name",
-                "surname": "surname",
-                "title": "title",
-                "image_name" : ""
             }
         ]
     },
