@@ -1,33 +1,9 @@
 [
     {
-        "title": "High-Performance Data Analytics Framework for Power Markets Simulation",
-        "abstract": "Efficient energy trading relies on high-fidelity price prediction systems with short response times. This project will advance state-of-the-art computational tools for the market pricing mechanism for meeting real-time responses in smart power grid analysis.",
-        "link" :"https://search.usi.ch/projects/800/future-swiss-electrical-infrastructure",
-        "group" : "Schenk",
-        "start" : "01.08.2020",
-        "end": "31.07.2023",
-        "duration" : "36 Months",
-        "funding" : "Innosuisse",
-        "status" : "Active",
-        "category": "Innosuisse / Innovation projects",
-        "image":"",
-        
-        "members": [
-            {
-                "name": "Schenk O.",
-                "role": "(Responsible)"
-                
-            }
-            
-            
-        ]
-        
-    },
-    {
         "title": "The Dynamics of Innovation: latent space modelling of patent citations ",
         "abstract": "",
         "link" :"https://search.usi.ch/projects/1991/the-dynamics-of-innovation-latent-space-modelling-of-patent-citations",
-        "group" : "",
+        "group" : "Statistical Computing Laboratory (Prof. Wit)",
         "start" : "01.09.2020",
         "end": "31.08.2024",
         "duration" : "48 Months",
@@ -48,10 +24,31 @@
         ]
     },
     {
+        "title": "High-Performance Data Analytics Framework for Power Markets Simulation",
+        "abstract": "Efficient energy trading relies on high-fidelity price prediction systems with short response times. This project will advance state-of-the-art computational tools for the market pricing mechanism for meeting real-time responses in smart power grid analysis.",
+        "link" :"https://search.usi.ch/projects/800/future-swiss-electrical-infrastructure",
+        "group" : "Advanced Computing Laboratory (Prof. Schenk)",
+        "start" : "01.08.2020",
+        "end": "31.07.2023",
+        "duration" : "36 Months",
+        "funding" : "Innosuisse",
+        "status" : "Active",
+        "category": "Innosuisse / Innovation projects",
+        "image":"",
+        
+        "members": [
+            {
+                "name": "Schenk O.",
+                "role": "(Responsible)"
+                
+            }            
+        ]
+    },
+    {
         "title": "Sparse inference of complex networks ",
         "abstract": "At the turn of the 21st century scientists have come to realise that a major ingredient in many modern economic, epidemiological, ecological and biological questions is to understand the network structure of the entities they study; for example, interbank lending is crucial for oiling the global economy and modern transport networks are facilitating the spread of infectious diseases. Unfortunately, even in the era of big data, computational bottle-necks have meant that only the simplest analyses have been applied to these large datasets, whereas methodological bottle-necks prevented an integrative view of complex phenomena. In short, inferring and analyzing complex networks have proven extremely difficult. Rather than simplifying the methodology prior to seeing the data, modern techniques from high-dimensional inference allow the data to select the appropriate level of complexity. The aim of this project is to integrate these techniques to the field of network analysis.",
         "link" :"https://search.usi.ch/projects/1589/sparse-inference-of-complex-networks",
-        "group" : "",
+        "group" : "Statistical Computing Laboratory (Prof. Wit)",
         "start" : "01.12.2019",
         "end": "30.11.2023",
         "duration" : "48 Months",
@@ -71,7 +68,7 @@
         "title": "Balanced Graph Partition Refinement using the Graph p-Laplacian",
         "abstract": "Graph partitioning is a technique which is widely used in many fields of computer science and engineering. The goal is to partition the vertices of a graph into a certain number of disjoint sets of approximately the same size, so that a cut metric is minimized. Due to the NP-hardness of the problem and its practical importance, many different heuristics (spectral, combinatorial, evolutionist, etc.) have been developed to provide an approximate result in acceptable computational time. However, the advent of increasingly larger instances in emerging applications such as social networks or power networks renders graph partitioning and related graph algorithms such as clustering or community detection more and more important, multifaceted, and challenging. Spectral graph partitioning in the 2-norm using the eigenvectors of the graph Laplacian matrix was pioneered by Fiedler. However, this approach is considered infeasible for large-scale graphs, due to the prohibitively expensive computation of the Fiedler eigenvector, a fact that prompted the development of modern multilevel graph partitioning methods. Additionally, it has been proven that the quality of the partitions obtained by the spectral approach can be improved by considering the equivalent eigenvalue problem in the $p$-norm. The solution found for p =1, by thresholding the second eigenvector of the p-Laplacian, provides a sharp approximation to the balanced ratio Cheeger cut metric, the optimality of which is known to be still NP-hard.\nMotivated by this solid theoretical background, we recently developed a continuous relaxation of the optimal 2-way graph partitioning based on the p-norm  minimization of the graph Laplacian Rayleigh quotient. In order to avoid the expensive computation of the Fiedler eigenvector, a state-of-the-art graph partitioner is used to provide the initial partitioning that is iteratively refined. The p-norm is reduced from a 2-norm towards a 1-norm, employing for each value of p a feasibility-preserving gradient descent method that converges on the p-Laplacian eigenvector. A filter favored iterates advancing towards minimum edgecut and partition load imbalance, thus providing partitions of high quality. This approach exhibits significant improvements over state-of-the-art software packages such as METIS and KaHIP for graphs originating from various application domains of graph partitioning, including triangular Delaunay meshes and sparse matrices. Particularly high benefits were observed from the application of the p-Laplacian method on graphs emerging from electric power networks and social networks. The simplicity of the steepest-descent algorithm together with a novel explicit treatment of the feasibility constraint render the overall approach highly efficient on recent computer architectures. This potential is demonstrated by an initial  parallel implementation of our method on both shared- and distributed-memory platforms, e.g., for a large-scale application in seismic imaging.\nIn this proposal we plan to extend the aforementioned  p-Laplacian partitioning method by developing two simultaneous research directions aiming at high quality graph partitioning on modern high performance parallel architectures. The first one will utilize the structural information encoded in the third eigenvector of the graph Laplacian matrix, corresponding to the third smallest eigenvalue. Incorporating more information present in the spectra has proven to improve the traditional spectral bisection algorithm, and such an approach is expected to improve the quality of the p-Laplacian partitioning scheme as well. Moreover, we intend to study the benefits of replacing the traditional gradient descent method currently utilized, with an optimization technique tailored for nonconvex scenarios.",
         "link" :"https://search.usi.ch/projects/1036/balanced-graph-partition-refinement-using-the-graph-p-laplacian",
-        "group" : "",
+        "group" : "Advanced Computing Laboratory (Prof. Schenk)",
         "start" : "01.04.2019",
         "end": "31.03.2023",
         "duration" : "48 Months",
@@ -87,13 +84,12 @@
                 
             }
         ]
-        
     },
     {
         "title": "EQUILIBRIA - Computing equilibria in heterogeneous agent macro models on contemporary HPC platforms",
         "abstract": "The computation of equilibria in dynamic stochastic general equilibrium models with heterogeneous agents has become increasingly important in financial economics, macroeconomics and in public finance. It is an open question of great practical relevance how to compute global solutions for large scale problems such as in models with overlapping generations and aggregate uncertainty which should be used to evaluate social security reform proposals, in new Keynesian DSGE models with several sectors, and monetary and fiscal policy, or in models with infinitely lived agents and collateral constraints which could be used to evaluate proposals on the regulation of financial markets. Smaller and more stylized versions of these models have been solved in the literature (see e.g. Krueger and Kubler (2006) or Brumm et al. (2014)) but existing technologies and codes cannot be scaled to tackle models that are realistic enough so that they can match basic facts observed in data.\nBuilding on earlier work undertaken by us (see, Brumm et al. (2016)), want to consider an Aiyagari- Bewley-style (see, e.g., Bewley (1984)) overlapping generations (OLG) model with incomplete financial markets. The latter is a discrete time infinite horizon model where a continuum of ex ante identical agents enters the economy each period. These agents consume and invest for the following ~80 periods (representing their life expectancy). In each period, the economy faces aggregate shocks that affect productivity, and each agent faces an idiosyncratic shock that determines his ability to work (his labor endowment). In this project we plan to extent this model to allow for several types of agents, this could represent several countries or agents with different education and tastes within a country. As a concrete application, we want to explore global inequalities and migration. For this, we plan to build and calibrate a multi-country stochastic OLG models with 4-5 regions (countries) and use such model economy to understand the effects of country-specific productivity shocks and demographics on migration and global inequality. These are very timely questions, as for example the transatlantic free trade agreement (TTIP) as well as possible redistribution mechanisms for wealth from the to ultra high net worth individuals to the rest of the population are currently under heavily discussion. We hope that the findings resulting from the proposed work here can provide policy makers with some quantitative guidance.\nThe computational complexity of the underlying problem however was so far a prohibitive obstacle for any researcher in economics. The models we propose to solve are of order ~300 continuous dimensions and 32 discrete states that represent possible realizations of the world. Naive, grid based solution methods consequently suffer the curse of dimensionality (Bellman (1961)). Brumm and Scheidegger (2014) introduced adaptive sparse grids in context of dynamic stochastic economic models. By embedding an adaptive sparse grid algorithm into a time-iteration procedure, they were able to solve up to hundreddimensional international real business cycle models. This strongly contrasted previous economic modeling where researchers were capable to deal with up to twenty-dimensional models. In order to accelerate these time-consuming computations, Brumm et al. (2015) then extended this framework to contemporary high-performance compute architectures. By exploiting the generic structure of recursive economic problems, they proposed a parallelization scheme that favors hybrid massively parallel computer architectures. The developments of their work included the use of an adaptive sparse grid algorithm and the use of a mixed MPI Intel TBB - CUDA/Thrust implementation to improve the interprocess communication strategy on massively parallel architectures. Recently, Brumm et al. (2016) and Scheidegger et al. (2016) upgraded this framework to solve annually calibrated OLG models with 59 dimensions and 4 discrete states. Moreover, the code base was also ported to Intel Xeon Phi Knights- Landing hardware, including the capability of using AVX-512.\n...",
         "link" :"https://search.usi.ch/projects/983/computing-equilibria-in-heterogeneous-agent-macro-models-on-contemporary-hpc-platforms",
-        "group" : "",
+        "group" : "Advanced Computing Laboratory (Prof. Schenk)",
         "start" : "01.07.2017",
         "end": "30.06.2021",
         "duration" : "48 Months",
@@ -120,7 +116,7 @@
         "title": "FURIESSCH - Future Swiss Electrical Infrastructure",
         "abstract": "The main research challenge of the WP2 is to build a realistic technical model of the Swiss energy system including the transmission systems, which model can be used for planning, operation, and economic evaluation of the system. This model must comprise: (i) location of renewable generation and the limited predictability of these sources; (ii) location of storage devices, both large scale, i.e. pumped hydro storage, and distributed devices; (iii)  interconnections with regional grids; (iv) interconnections on the bulk power level, i.e. high voltage lines and gas pipelines; (v) possibility to interface it with models for market and other economic simulations.\nThis work involves the modelling of individual components, which requires interaction with other WPs and possibly other SCCER, but also the development of a general system framework taking into account different energy carriers.  Furthermore, since the model will be of very high order and complexity, it should be formulated in such a way that large-scale optimization methods could be applied. In this way different optimization objectives could be used in the planning and operation of the system. The results from the optimization have to be robust.\nThe developed models should cover both slowly varying phenomena, i.e. time scale of minutes, but also faster phenomena, i.e. time scale of seconds. The models used for studying and analysing phenomena of different time scales will be different but with the same architecture. Another research challenge is the dynamics of a system with considerably lower inertia than the existing systems. Innovative geoinformation system will be used to identify locations for renewable generation and storage devices. The developed model, achieved with real data related to the system, is expected to be a powerful tool for optimizing the future Swiss energy system in terms of planning and operation.",
         "link" :"https://search.usi.ch/projects/800/future-swiss-electrical-infrastructure",
-        "group" : "",
+        "group" : "Advanced Computing Laboratory (Prof. Schenk)",
         "start" : "01.01.2014",
         "end": "31.03.2021",
         "duration" : "87 Months",
@@ -149,7 +145,7 @@
         "title": "Cell biomechanics in silico: Model development and validation ",
         "abstract": "The aim of this project is to develop computational framework for the simulations of cells in flows. In order to achieve this goal, we will develop a new cell model and software efficiently exploiting modern supercomputers. The model will be extensively validated using quantitative experimental data provided by our collaborators.",
         "link" :"https://search.usi.ch/projects/1023/cell-biomechanics-in-silico-model-development-and-validation",
-        "group" : "",
+        "group" : "Scientific Computing Laboratory (Prof. Pivkin)",
         "start" : "01.03.2018",
         "end": "28.02.2021",
         "duration" : "36 Months",
@@ -161,13 +157,8 @@
         "members": [
             {
                 "name": "Pivkin I.",
-                "role": "(Responsible)"
-                
+                "role": "(Responsible)"       
             }            
-        ]
-        
+        ]   
     }
-    
-    
-
 ]
