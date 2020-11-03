@@ -12,21 +12,21 @@
             },
             {
                 "name": "Francisco Javier",
-                "surname": "Richter Mendoza ",
+                "surname": "Richter Mendoza",
                 "title": "Postdoctoral Fellow",
-                "image_name" : ""
+                "image_name" : "images/mendoza.jpg"
             },
             {
                 "name": "Giacomo",
                 "surname": "Ceoldo",
                 "title": "Ph.D. Student",
-                "image_name" : ""
+                "image_name" : "images/giacomo-ceoldo.jpg"
             },
             {
                 "name": "Igor",
                 "surname": "Artico",
                 "title": "Ph.D. Student",
-                "image_name" : ""
+                "image_name" : "images/igor-artico.jpg"
             }
         ]
     },
