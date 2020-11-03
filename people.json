@@ -39,13 +39,13 @@
                 "name": "Dimosthenis",
                 "surname": "Pasadakis",
                 "title": "Ph.D. Student",
-                "image_name" : ""
+                "image_name" : "images/dimos.jpg"
             },
             {
                 "name": "Aryan",
                 "surname": " Eftekhari",
                 "title": "Ph.D. Student",
-                "image_name" : ""
+                "image_name" : "images/aryan.jpg"
             },
             {
                 "name": "Tim",
@@ -57,7 +57,7 @@
                 "name": "Lisa",
                 "surname": "Gaedke-Merzhaeuser",
                 "title": "Ph.D. Student",
-                "image_name" : ""
+                "image_name" : "images/lisa.jpg"
             },
             {
                 "name": "Radim",
@@ -87,7 +87,7 @@
                 "name": "Yao",
                 "surname": " Li",
                 "title": "Postdoctoral Fellow",
-                "image_name" : ""
+                "image_name" : "images/li_yao.jpg"
             }
 
         ]
