@@ -9,6 +9,24 @@
                 "surname": "Wit",
                 "title": "Head",
                 "image_name" : "images/ernst-wit.jpg"
+            },
+            {
+                "name": "Francisco Javier",
+                "surname": "Richter Mendoza ",
+                "title": "Postdoctoral Fellow",
+                "image_name" : ""
+            },
+            {
+                "name": "Giacomo",
+                "surname": "Ceoldo",
+                "title": "Ph.D. Student",
+                "image_name" : ""
+            },
+            {
+                "name": "Igor",
+                "surname": "Artico",
+                "title": "Ph.D. Student",
+                "image_name" : ""
             }
         ]
     },
