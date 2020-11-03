@@ -54,8 +54,8 @@
         "duration" : "24 Months",
         "funding" : "Carl Zeiss Foundation",
         "status" : "Active",
-        "category": "Carl Zeiss Foundation ",
-        "image":"",
+        "category" : "Carl Zeiss Foundation",
+        "image" :"",
         
         "members": [
             {
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "title": "Preparing for next-generation approximate Bayesian inference using R-INLA,
+        "title": "Preparing for next-generation approximate Bayesian inference using R-INLA",
         "abstract": "Progress in modern computing platforms and storage systems, electronic devices, and monitoring equipment has resulted in an exponential growth of the volume of data produced in several areas of science and engineering. These areas comprise of environmental sciences, biology= and medicine, satellite imaging, geospatial data, climate data, and transaction data among many others. Data processing commonly employs sophisticated statistical methods aiming to enrich the mechanisms governing the underlying physical processes and improve statistical models. Statistical analysis of such models traditionally has been carried out using Markov chain Monte Carlo methods (MCMC) used to represent complex dependency structures in data. MCMC methods provide a relatively simple approach to compute large hierarchical models requiring integration over several thousands of unknown parameters. Although MCMC methods are asymptotically exact they have slow convergence, do not scale well, and may fail for some complex models. It was soon realized that MCMC will not be able to meet modern and future big data challenges. In particular, we need to focus on extending the RINLA software ecosystem by advancing direct sparse linear solvers designed for Bayesian inference statistical computing. The sparse matrix algorithms and software implementations will be done in a codesign with data science applications in mind. By combining accelerated matrix algorithms and Bayesian inference at large scale, we plan to develop an algorithmic tool serving as part of a virtual laboratory for spatial and spatio-temporal models. This will pave the way for the next generation of data science applications based on INLA in ways not possible before. Our goal is to make our software ecosystem as productive and sustainable as possible by simultaneously focusing on algorithmic improvements to increase quality and speed, while at the same time evaluating potential benefits in various data science applications. This research project will therefore focus on solving all these fundamental challenges imposed by large-scale analytics, deep analysis and precise predictions by advancing and preparing the foundation for the next generation of RINLA.",
         "link" :"",
         "group" : "Advanced Computing Laboratory (Prof. Schenk)",
@@ -118,6 +118,7 @@
         "status" : "Active",
         "category": "King Abdullah University of Science and Technology’s Competitive Research Grant Program",
         "image":"",
+
         "members": [
             {
                 "name": "Schenk O.",
