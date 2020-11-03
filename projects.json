@@ -45,6 +45,27 @@
         ]
     },
     {
+        "title": "How emergent is the brain?",
+        "abstract": "The central goal of this project is to access the quality and performance of the existent and emerging machine learning (ML) and artificial intelligence (AI) approaches with respect to their ability to describe, to explain and to predict the neuronal behaviour on the basis of lab-data from mouse experiments. More common ML and AI approaches (hidden Markov models, shallow and reinforced learning, machine learning) will be compared to the very recently-developed Scalable Probabilistic Approximation approaches (Gerber et al., Sci. Adv. 2020) and to the entropy-driven approaches. Results of these comparison will aim at identifying the simplest possible (but not simpler then necessary) models that provide the most adequate lab-data descriptions. Identification of such models will enhance our understanding of emergence in the neuronal activity and provide a guidance for further experiments.",
+        "link" :"",
+        "group" : "High-Dimensional Data Analysis Laboratory",
+        "start" : "01.01.2021",
+        "end": "31.12.2023",
+        "duration" : "24 Months",
+        "funding" : "Carl Zeiss Foundation",
+        "status" : "Active",
+        "category": "Carl Zeiss Foundation ",
+        "image":"",
+        
+        "members": [
+            {
+                "name": "Horenko I.",
+                "role": "(Responsible)"
+                
+            }            
+        ]
+    },
+    {
         "title": "Sparse inference of complex networks ",
         "abstract": "At the turn of the 21st century scientists have come to realise that a major ingredient in many modern economic, epidemiological, ecological and biological questions is to understand the network structure of the entities they study; for example, interbank lending is crucial for oiling the global economy and modern transport networks are facilitating the spread of infectious diseases. Unfortunately, even in the era of big data, computational bottle-necks have meant that only the simplest analyses have been applied to these large datasets, whereas methodological bottle-necks prevented an integrative view of complex phenomena. In short, inferring and analyzing complex networks have proven extremely difficult. Rather than simplifying the methodology prior to seeing the data, modern techniques from high-dimensional inference allow the data to select the appropriate level of complexity. The aim of this project is to integrate these techniques to the field of network analysis.",
         "link" :"https://search.usi.ch/projects/1589/sparse-inference-of-complex-networks",
