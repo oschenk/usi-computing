@@ -30,10 +30,10 @@
                         "link" : "DOI: 10.1126/sciadv.aaw0961"
                     },
                     {
-                      "authors" : " I. Artico, I. Smolyarenko, V. Vinciotti, E. C. Wit",
-                      "title" : "How rare are power-law networks really?",
-                      "description": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 476(2241), 2020",
-                      "link": "https://doi.org/10.1098/rspa.2019.0742"
+                      "authors" : "R. Užupytė, E. C. Wit",
+                      "title" : "Test for triadic closure and triadic protection in temporal relational event data",
+                      "description": "Social Network Analysis and Mining, 1-21(10), 2020",
+                      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85082171359&doi=10.1007%2fs13278-020-0632-4&partnerID=40&md5=a30b76fc5c7be9396b163045bc4cab51"
                     },
                     {
                       "authors" : "V. Vinciotti, E. C. Wit",
@@ -42,29 +42,28 @@
                       "link": "https://doi.org/10.1111/stan.12212"
                     },
                     {
-                      "authors" : "S. N. Wood, E. C. Wit, M.Fasiolo, P. J. Green",
-                      "title" : "COVID-19 and the difficulty of inferring epidemiological parameters from clinical data",
-                      "description": "Lancet Infectious Diseases, 2020",
-                      "link": "https://doi.org/(...)1473-3099(20)30437-0"
+                      "authors" : "F. Richter, B. Haegeman, R. S. Etienne,  E. C. Wit",
+                      "title" : "Introducing a general class of species diversification models for phylogenetic trees",
+                      "description": "Statistica Neerlandica, 74(3), 261-274, 2020",
+                      "link": "https://doi.org/10.1111/stan.12205"
                     },
                     {
-                      "authors" : "W. Kruijer, P. Behrouzi,  D. Bustos-Korts, M. X. Rodríguez-Álvarez, S. M. Mahmoudi, B. Yandell, E. C. Wit, F. A. van Eeuwijk",
-                      "title" : "Reconstruction of Networks with Direct and Indirect Genetic Effects",
-                      "description": "Genetics, 214(4), 781-807, 2020",
-                      "link": "https://doi.org/(...)/genetics.119.302949"
+                      "authors" : "S. Ranciati.,  E.C. Wit,  C. Viroli",
+                      "title" : "Bayesian smooth-and-match inference for ordinary differential equations models linear in the parameters",
+                      "description": "Statistica Neerlandica, 74(3), 125-144, 2020",
+                      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075248815&doi=10.1111%2fstan.12192&partnerID=40&md5=ccc27c55cb86bf7226001bf915f72fe9"
                     },
                     {
                       "authors" : "E. C. Wit, L. Augugliaro, H. Pazira, J. González, F. Abegaz",
                       "title" : "Sparse relative risk regression models",
                       "description": " Biostatistics, 21(2), e131–e147, 2020",
-                      "link": "https://doi.org/(...)biostatistics/kxy060 "
+                      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081979660&doi=10.1093%2fbiostatistics%2fkxy060&partnerID=40&md5=35f9b78541fe3de17b45c57c83081238"
                     },
-
                     {
-                      "authors" : "F. Richter, B. Haegeman, R. S. Etienne,  E. C. Wit",
-                      "title" : "Introducing a general class of species diversification models for phylogenetic trees",
-                      "description": "Statistica Neerlandica, 74(3), 261-274, 2020",
-                      "link": "https://doi.org/10.1111/stan.12205"
+                      "authors" : "W. Kruijer, P. Behrouzi,  D. Bustos-Korts, M. X. Rodríguez-Álvarez, S. M. Mahmoudi, B. Yandell, E. C. Wit, F. A. van Eeuwijk",
+                      "title" : "Reconstruction of Networks with Direct and Indirect Genetic Effects",
+                      "description": "Genetics, 214(4), 781-807, 2020",
+                      "link": "https://doi.org/10.1534/GENETICS.119.302949"
                     },
                     {
                       "authors" : "M. Signorelli,  E. C. Wit",
@@ -73,16 +72,22 @@
                       "link": "https://doi.org/10.1177/1471082X19871128"
                     },
                     {
-                      "authors" : "S. E. Balafas,  W. P. Krijnen, W. J. Post, E. C. Wit",
-                      "title" : "An R Package for Nonparametric IRT Modelling of Unfolding Processes",
-                      "description": "The R Journal",
-                      "link": "https://journal.r-project.org/(...)-2020-002/index.html"
-                    },
-                    {
                       "authors" : "S. de Vos, S. Patten, E. C. Wit, E. H. Bos,  K. J. Wardenaar, P. de Jonge",
                       "title" : "Subtyping psychological distress in the population: A semi-parametric network approach",
                       "description": "Epidemiology and psychiatric sciences, 29, 1-8,  2020",
-                      "link": "https://doi.org/(...)17/S204579601900026X"
+                      "link": "https://doi.org/10.1017/S204579601900026X"
+                    },
+                    {
+                      "authors" : "S. N. Wood, E. C. Wit, M.Fasiolo, P. J. Green",
+                      "title" : "COVID-19 and the difficulty of inferring epidemiological parameters from clinical data",
+                      "description": "Lancet Infectious Diseases, 2020",
+                      "link": "https://doi.org/10.1016/S1473-3099(20)30437-0"
+                    },
+                    {
+                      "authors" : " I. Artico, I. Smolyarenko, V. Vinciotti, E. C. Wit",
+                      "title" : "How rare are power-law networks really?",
+                      "description": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 476(2241), 2020",
+                      "link": "https://doi.org/10.1098/rspa.2019.0742"
                     },
                     {
                       "authors" :  "P. Arbenz, L. Giraud, O. Schenk.W. Vanroose",
@@ -149,41 +154,60 @@
             {
                 "type": "Refeered Journal Article",
                 "articles": [
-                   {
-                      "authors" : "S. Ranciati, E. C. Wit, C. Viroli",
-                      "title" : "Bayesian smooth-and-match inference for ordinary differential equations models linear in the parameters",
-                      "description": "Statistica Neerlandica.",
-                      "link": "https://doi.org/10.1111/stan.12192"
+                    {
+                      "authors" : "D. Pellin, L. Biasco, A. Aiuti,  M.C. Di Serio, E.C. Wit",
+                      "title" : "Penalized inference of the hematopoietic cell differentiation network via high-dimensional clonal tracking",
+                      "description": "Applied Network Science, 1-115, 2019",
+                      "link": "https://doi.org/10.1007/s41109-019-0225-1"
                     },
                     {
-                      "authors" : "K. Kam phorst,  B. C. Oosterloo,  A. M. Vlieger, N. B. Rutten, C. M.Bunkers, E. C. Wit, R. M. Van Elburg",
-                      "title" : "Antibiotic Treatment in the First Week of Life Impacts the Growth Trajectory in the First Year of Life in Term Infants.",
-                      "description": "Journal of Pediatric Gastroenterology and Nutrition, 69(1), 131-136, 2019",
-                      "link": " https://doi.org/(...)MPG.0000000000002360 2019"
+                      "authors" : "K. Kamphorst, B.C. Oosterloo, A.M.  Vlieger, N.B. Rutten, C.M. Bunkers, E.C. Wit,  R.M Van Elburg",
+                      "title" : "Antibiotic Treatment in the First Week of Life Impacts the Growth Trajectory in the First Year of Life in Term Infants",
+                      "description": "Journal of Pediatric Gastroenterology and Nutrition, 131-136, 2019",
+                      "link": "https://doi.org/10.1097/MPG.0000000000002360"
+                    },
+
+                    {
+                      "authors" : "A. Abbruzzo , I. Vujačić, A.M. Mineo, E.C. Wit",
+                      "title" : "Selecting the tuning parameter in penalized Gaussian graphical models",
+                      "description": "Statistics and Computing, 559-569, 2019",
+                      "link": "https://doi.org/10.1007/s11222-018-9823-5"
                     },
                     {
-                      "authors" : "A. Abbruzzo, I. Vujacic, A. M. Mineo, E. C. Wit",
-                      "title" : " Selecting the tuning parameter in penalized Gaussian graphical models",
-                      "description": "Statistics and Computing, 29(3), 559-569, 2019",
-                      "link": "  https://doi.org/(...)07/s11222-018-9823-5"
-                    },
-                    {
-                      "authors" : "P. Behrouzi,  E. C.  Wit",
+                      "authors" : "P. Behrouzi, E.C. Wit",
                       "title" : "De novo construction of polyploid linkage maps using discrete graphical models",
-                      "description": "Bioinformatics, 35(7), 1083-1093, 2019",
-                      "link": "https://doi.org/(...)ioinformatics/bty777"
+                      "description": "Bioinformatics, 1-3, 2019",
+                      "link": "https://doi.org/10.1093/bioinformatics/bty777"
+                    },
+                    {
+                      "authors" : "N. Demetrashvili, N. Smidt, H. Snieder,  E.R. Van Den Heuvel,  E.C. Wit",
+                      "title" : "Variance components models for analysis of big family data of health outcomes in the lifelines cohort study",
+                      "description": "Twin Research and Human Genetics, 1083-1093, 2019",
+                      "link": "https://doi.org/10.1017/thg.2019.1"
+                    },
+                    {
+                      "authors" : "E.C. Wit",
+                      "title" : "Introduction to network inference in genomics",
+                      "description": "Network Science: An Aerial View, 99-119, 2019",
+                      "link": "https://doi.org/10.1007/978-3-030-26814-5_7"
+                    },
+                    {
+                      "authors" : " R. Mohammadi, E.C. Wit",
+                      "title" : "BDgraph: An R package for Bayesian structure learning in graphical models",
+                      "description": "Journal of Statistical Software, 1-2, 2019",
+                      "link": "https://doi.org/10.18637/jss.v089.i03"
+                    },
+                    {
+                      "authors" : "S. E. Balafas,  W. P. Krijnen, W. J. Post, E. C. Wit",
+                      "title" : "An R Package for Nonparametric IRT Modelling of Unfolding Processes",
+                      "description": "The R Journal",
+                      "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwji7KmXhOfsAhVD8OAKHR2hD0QQFjAAegQIBBAC&url=https%3A%2F%2Fjournal.r-project.org%2Farchive%2F2020%2FRJ-2020-002%2FRJ-2020-002.pdf&usg=AOvVaw22i0ZdAWPHqPI4gmsxwmtV"
                     },
                     {
                       "authors" : "N. P. Gill, L. D’Arrigo, E. C Wit",
                       "title" : "Comparison of Postoperative Fever and Effectiveness of Percutaneous Nephrolithotomy (PCNL) Versus Retrograde Intrarenal Surgery (RIRS) for the Treatment of Renal Stones",
                       "description": "SN Comprehensive Clinical Medicine, 1(3), 154-159.019, 2019",
-                      "link": "https://doi.org/(...)07/s42399-018-0023-6 2"
-                    },
-                    {
-                      "authors" : "N. Demetrashvili, N. Smidt, H. Snieder,  E. R van den Heuvel,  E. C. Wit",
-                      "title" : "Variance Components Models for Analysis of Big Family Data of Health Outcomes in the Lifelines Cohort Study",
-                      "description": "Twin research and human genetics, 22(1), 4-13, 2019",
-                      "link": "https://doi.org/10.1017/thg.2019.1 "
+                      "link": "https://doi.org/10.1007/s42399-018-0023-6"
                     },
                     {
                       "authors" : "P. Behrouzi, E. C. Wit",
