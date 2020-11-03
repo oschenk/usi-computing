@@ -5,6 +5,24 @@
             {
                 "type": "Refeered Journal Article",
                 "articles": [
+                    {
+                        "authors" : " A. Buetti-Dinh,  M. Herold,  S. Christel, M.E. Hajjami,  S. Bellenberg, O. Ilie,  P. Wilmes, A. Poetsch,  W. Sand, M. Vera, I.V. Pivkin, M. Dopson",
+                        "title" : "Systems biology of acidophile biofilms for efficient metal extraction",
+                        "description" : "Scientific Data, 2020",
+                        "link" : "https://doi.org/10.1038/s41597-020-0519-2"
+                    },
+                    {
+                        "authors" : "S. Bellenberg ,  A. Buetti-Dinh,  V. Galli,  O. Ilie, M. Herold,  S. Christel,  M. Boretska, I.V. Pivkin,  P. Wilmes,  W. Sand, M. Vera,  M. Dopson",
+                        "title" : "Automated microscopic analysis of metal sulfide colonization by acidophilic microorganisms",
+                        "description" : "Applied and Environmental Microbiology, 6-86, 2020",
+                        "link" : "https://doi.org/10.1128/AEM.02702-19."
+                    },
+                    {
+                        "authors" : " A. Buetti-Dinh,  M. Herold, S. Christel , M.E.Hajjami,  F. Delogu, O. Ilie,  S. Bellenberg,  P. Wilmes,  A. Poetsch,  W. Sand,  M. Vera, I.V. Pivkin,  R. Friedman,  M. Dopson",
+                        "title" : "Reverse engineering directed gene regulatory networks from transcriptomics and proteomics data of biomining bacterial communities with approximate Bayesian computation and steady-state signalling simulations",
+                        "description" : "BMC Bioinformatics, 1-21, 2020",
+                        "link" : "https://doi.org/10.1186/s12859-019-3337-9"
+                    },
                    {
                       "authors" :  "I. Horenko, G. Marchenko, P. Gagliardini",
                       "title" : "On a computationally-scalable sparse formulation of the multidimensional and non-stationary maximum entropy principle",
@@ -125,24 +143,6 @@
                         "title" : "A Recursive Algebraic Coloring Technique for Hardware-Efficient Symmetric Sparse Matrix-Vector Multiplication",
                         "description" : "ACM Transactions on Parallel Computing, Vol. 7, No. 3, Article 19, June 2020",
                         "link" : "https://doi.org/10.1145/3399732."
-                    },
-                    {
-                        "authors" : " A. Buetti-Dinh,  M. Herold,  S. Christel, M.E. Hajjami,  S. Bellenberg, O. Ilie,  P. Wilmes, A. Poetsch,  W. Sand, M. Vera, I.V. Pivkin, M. Dopson",
-                        "title" : "Systems biology of acidophile biofilms for efficient metal extraction",
-                        "description" : "Scientific Data, 2020",
-                        "link" : "https://doi.org/10.1038/s41597-020-0519-2"
-                    },
-                    {
-                        "authors" : "S. Bellenberg ,  A. Buetti-Dinh,  V. Galli,  O. Ilie, M. Herold,  S. Christel,  M. Boretska, I.V. Pivkin,  P. Wilmes,  W. Sand, M. Vera,  M. Dopson",
-                        "title" : "Automated microscopic analysis of metal sulfide colonization by acidophilic microorganisms",
-                        "description" : "Applied and Environmental Microbiology, 6-86, 2020",
-                        "link" : "https://doi.org/10.1128/AEM.02702-19."
-                    },
-                    {
-                        "authors" : " A. Buetti-Dinh,  M. Herold, S. Christel , M.E.Hajjami,  F. Delogu, O. Ilie,  S. Bellenberg,  P. Wilmes,  A. Poetsch,  W. Sand,  M. Vera, I.V. Pivkin,  R. Friedman,  M. Dopson",
-                        "title" : "Reverse engineering directed gene regulatory networks from transcriptomics and proteomics data of biomining bacterial communities with approximate Bayesian computation and steady-state signalling simulations",
-                        "description" : "BMC Bioinformatics, 1-21, 2020",
-                        "link" : "https://doi.org/10.1186/s12859-019-3337-9"
                     }
                 ]
             }
@@ -184,7 +184,6 @@
                       "description": "Journal of Pediatric Gastroenterology and Nutrition, 131-136, 2019",
                       "link": "https://doi.org/10.1097/MPG.0000000000002360"
                     },
-
                     {
                       "authors" : "A. Abbruzzo , I. Vujačić, A.M. Mineo, E.C. Wit",
                       "title" : "Selecting the tuning parameter in penalized Gaussian graphical models",
@@ -245,14 +244,7 @@
                       "title" : "Large-Scale Sparse Inverse Covariance Matrix Estimation",
                       "description":"SIAM J. Sci. Comput., 41(1), A380–A401, January 2019, DOI:",
                       "link": "https://doi.org/10.1137/17M1147615"
-                    },
-                    {
-                        "authors" : "A. Buetti-Dinh , V.Galli,  S. Bellenberg,  O. Ilie,  M. Herold,  S. Christel,  M. Boretska, I.V. Pivkin , P. Wilmes,  W. Sand,  M. Vera,  M. Dopson",
-                        "title" : "Deep neural networks outperform human expert's capacity in characterizing bioleaching bacterial biofilm composition",
-                        "description" : "Biotechnology Reports, 2019",
-                        "link" : "https://doi.org/10.1016/j.btre.2019.e00321"
-                    }
-                ]
+                    }                ]
             }
         ]
     }
