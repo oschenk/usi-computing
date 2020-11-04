@@ -92,7 +92,7 @@
             },
             {
                 "name": "Lisa",
-                "surname": "Gaedke-Merzhaeuser",
+                "surname": "Gaedke-Merzhäuser",
                 "title": "Ph.D. Student",
                 "image_name" : "images/lisa.jpg"
             },
@@ -104,7 +104,7 @@
             },
             {
                 "name": "Ardil",
-                "surname": "Gunay",
+                "surname": "Günay",
                 "title": "Junior Software Engineer",
                 "image_name" : "images/ardil_gunay.jpg"
             }
