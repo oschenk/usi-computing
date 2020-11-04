@@ -16,6 +16,10 @@
                 "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
               },
               {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
+              },
+              {
                 "name": "PHD",
                 "link": "https://search.usi.ch/educations/33/phd-programme-of-the-faculty-of-informatics"
               }
@@ -31,9 +35,13 @@
                 "name": "MCS",
                 "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
               },
-             {
+              {
                 "name": "MAI",
                 "link": "https://search.usi.ch/educations/54/master-of-science-in-artificial-intelligence"
+              },
+              {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
               },
               {
                 "name": "PHD",
@@ -55,6 +63,10 @@
               {
                 "name": "MFT",
                 "link": "https://search.usi.ch/en/educations/55/master-of-science-in-financial-technology-and-computing"
+              },
+              {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
               }
              ]
           },
@@ -105,6 +117,10 @@
                 "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
               },
               {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
+              },
+              {
                 "name": "PHD",
                 "link": "https://search.usi.ch/educations/33/phd-programme-of-the-faculty-of-informatics"
               }
@@ -119,6 +135,14 @@
               {
                 "name": "MCS",
                 "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
+              },
+              {
+                "name": "MAI",
+                "link": "https://search.usi.ch/educations/54/master-of-science-in-artificial-intelligence"
+              },
+              {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
               },
               {
                 "name": "PHD",
@@ -151,6 +175,10 @@
                 "link": "https://search.usi.ch/en/educations/55/master-of-science-in-financial-technology-and-computing"
               },
               {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
+              },
+              {
                 "name": "MAI",
                 "link": "https://search.usi.ch/educations/54/master-of-science-in-artificial-intelligence"
               }
@@ -171,6 +199,10 @@
                 "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
               },
               {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
+              },
+              {
                 "name": "MFT",
                 "link": "https://search.usi.ch/en/educations/55/master-of-science-in-financial-technology-and-computing"
               }
@@ -185,6 +217,10 @@
               {
                 "name": "MCS",
                 "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
+              },
+              {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
               }
             ]
           },
@@ -242,6 +278,10 @@
               {
                 "name": "MFT",
                 "link": "https://search.usi.ch/en/educations/55/master-of-science-in-financial-technology-and-computing"
+              },
+              {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
               }
             ]
           },
@@ -270,6 +310,10 @@
               {
                 "name": "MAI",
                 "link": "https://search.usi.ch/educations/54/master-of-science-in-artificial-intelligence"
+              },
+              {
+                "name": "MSI",
+                "link": "https://www.usi.ch/en/education/master/informatics"
               },
               {
                 "name": "PHD",
