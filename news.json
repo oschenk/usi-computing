@@ -2,7 +2,7 @@
     {
         "title" : "Computer-based weather forecast: New algorithm outperforms mainframe computer systems",
         "text" : "The Paper «Low-cost scalable discretization, prediction, and feature selection for complex systems» co-authored by Prof Igor Horenko (High-Dimensional Data Analysis Laboratory) and published in “Science Advances” 2020, has made to the top-5% of all research outputs scored by Altmetric. It was featured by a number of media-outlets (https://scienceadvances.altmetric.com/details/75128729/news), including the “HPC Wire” magazine (https://www.hpcwire.com/2020/02/19/new-algorithm-allows-pcs-to-challenge-hpc-in-weather-forecasting/)",
-        "image_name" : "newsimages/spa-algorithm-tests.jpg",
+        "imageUrl" : "newsimages/spa-algorithm-tests.jpg",
         "link" : "https://www.hpcwire.com/2020/02/19/new-algorithm-allows-pcs-to-challenge-hpc-in-weather-forecasting/"
     },
     {
