@@ -32,7 +32,7 @@
     },
     {
         "groupname": "Scientific Computing Laboratory",
-        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusa.",
+        "description": "Our research interests in the Scientific Computing Laboratory lie in the area of multiscale/multiphysics modelling and parallel large-scale simulations of biological systems. We focus on the development of new computational models and corresponding numerical methods suitable for the next generation of super computers. We are working on stochastic multiscale modelling of motion, the interaction, deformation and aggregation of cells under physiological flow conditions, biofilm growth, and coarse-grained molecular dynamics simulations, as well as the modelling of transport processes in healthy and tumour-induced microcirculation.",
         "members": [
             {
                 "name": "Igor",
