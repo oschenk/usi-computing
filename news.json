@@ -1,13 +1,13 @@
 [
     {
         "title" : "Computer-based weather forecast: New algorithm outperforms mainframe computer systems",
-        "text" : "The Paper «Low-cost scalable discretization, prediction, and feature selection for complex systems» co-authored by Prof Igor Horenko (High-Dimensional Data Analysis Laboratory) and published in “Science Advances” 2020, has made to the top-5% of all research outputs scored by Altmetric. It was featured by a number of media-outlets (https://scienceadvances.altmetric.com/details/75128729/news), including the “HPC Wire” magazine (https://www.hpcwire.com/2020/02/19/new-algorithm-allows-pcs-to-challenge-hpc-in-weather-forecasting/)",
+        "text" : "The Paper «Low-cost scalable discretization, prediction, and feature selection for complex systems» co-authored by Prof Igor Horenko (High-Dimensional Data Analysis Laboratory) and published in Science Advances, has made to the top-5% of all research outputs scored by Altmetric. It was featured by a number of media-outlets, including the HPC Wire magazine.",  
         "imageUrl" : "newsimages/spa-algorithm-tests.jpg",
         "link" : "https://www.hpcwire.com/2020/02/19/new-algorithm-allows-pcs-to-challenge-hpc-in-weather-forecasting/"
     },
     {
-        "title" : " Attendance tripled at CSCS-USI Summer School 2020",
-        "text" : "The shift to online due to COVID-19 has done well to the numbers of this summer school: 100 students and working professionals logged on for the two-week series of lectures and “hands-on” labs to learn about CPU/GPU hybrid high-performance computing, with a special focus on data analytics.",
+        "title" : "Shift to online raises attendance for CSCS-USI Summer School 2020",
+        "text" : "The Swiss National Supercomputing Center (CSCS) and Center of Computing at Università della Svizzera italiana (USI) hosted their annual Summer School online this year due to COVID-19 restrictions, but attendance tripled thanks to the remote accessibility of the program. A total of 100 students and working professionals logged on for the two-week series of lectures and “hands-on” labs to learn about CPU/GPU hybrid high-performance computing (HPC) systems with a special focus on data analytics.",
         "imageUrl" : "https://www.cscs.ch/fileadmin/_processed_/2/3/csm_Collage_SC2020_1_98e58ad23e.png",
         "link" : "https://www.cscs.ch/publications/news/2020/shift-to-online-raises-attendance-for-cscs-usi-summer-school-2020/"
 
