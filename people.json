@@ -52,7 +52,7 @@
     {
         "groupname": "Advanced Computing Laboratory",
         "description": "The research of the Advanced Computing Laboratory is centered around the topic of multicore and manycore algorithms for computing applications on emerging high-performance computing (HPC) architectures. Typically, we drive research towards extreme-scale simulations in computational algorithms, application software, programming, and software tools. We are currently involved in several HPC and computing research and simulation projects that develop methods and applications targeted at the next generation of petaflop/exaflop architectures. Interdisciplinary cooperation is a key to the work of this group, which functions as a link between various branches of computer science, computing technology, and application areas ranging from applied mathematics, to various branches of the engineering and natural sciences.",
-        "link" : "/groups/advanced-compuing-laboratory",
+        "link" : "/groups/colab",
         "members": [
             {
                 "name": "Olaf",
