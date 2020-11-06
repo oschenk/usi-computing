@@ -33,6 +33,7 @@
     {
         "groupname": "Scientific Computing Laboratory",
         "description": "Our research interests in the Scientific Computing Laboratory lie in the area of multiscale/multiphysics modelling and parallel large-scale simulations of biological systems. We focus on the development of new computational models and corresponding numerical methods suitable for the next generation of super computers. We are working on stochastic multiscale modelling of motion, the interaction, deformation and aggregation of cells under physiological flow conditions, biofilm growth, and coarse-grained molecular dynamics simulations, as well as the modelling of transport processes in healthy and tumour-induced microcirculation.",
+        "link" : "/groups/pil",
         "members": [
             {
                 "name": "Igor",
@@ -113,6 +114,7 @@
     {
         "groupname": "High-Dimensional Data Analysis Laboratory ",
         "description": "The research of the High-Dimensional Data Analysis Laboratory is focussed on the development and practical implementation of data analysis algorithms, inverse methods and time series analysis approaches. Application areas for the developed methods are problems from climate/weather research, computational finance and econometrics, biophysics, computational fluid mechanics, sociology and politology.",
+        "link" : "/groups/hicoda",
         "members": [
             {
                 "name": "Illia",
