@@ -252,11 +252,11 @@
             "name": "Efficient Computational Algorithms",
             "lecturers": "Prof.  Wit, Prof.  Schenk, Dr. Ditter (FAU), Dr. Koestler (FAU)",
             "ects": "3",
-            "link": "",
+            "link": "https://search.usi.ch/courses/35262438/efficient-computational-algorithms",
             "programs": [
               {
                 "name": "MCS",
-                "link": "https://search.usi.ch/courses/35262438/efficient-computational-algorithms"
+                "link": "https://search.usi.ch/educations/13/master-of-science-in-computational-science"
               }
             ]
           },
